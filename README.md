@@ -14,7 +14,7 @@ This is Quiz Mnagement Project Using.
 - Whetever topic is addesd by  admin that is shown to all the user 
 After that topic wise user can attend the qiuiz.
 - only one admin is there who can add the the topics and also add the qustions for every topics.
--after response given by the user, admin can search the user and
+-after response given by the user, admin can search the user and,
 -based upon user result (that will automatically calculated) admin can give user as pass or fai.
 
 
